@@ -8,6 +8,7 @@ I'm eager to build new blockchain and web applications requiring solid knowledge
 - 🧠  I'm learning Golang
 - 🤝  I'm open to collaborating on all projects loving me
 - ⚡  I love to see football matches, but can't play well LOL.
+<br/>
 <a href="https://www.github.com/hermes8527" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/hermes8527?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
@@ -82,7 +83,7 @@ I'm eager to build new blockchain and web applications requiring solid knowledge
 <a href="https://azure.microsoft.com/en-us" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" width="36" height="36" alt="Microsoft Azure" /></a>
 
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
-<a href="https://www.netlify.com/" target="_blank" rel="noreferrer"><img src="https://www.netlify.com/netlify-icon.svg" width="36" height="36" alt="Netlify" /></a>
+<a href="https://www.netlify.com/" target="_blank" rel="noreferrer"><img src="https://www.netlify.com/favicon.ico" width="36" height="36" alt="Netlify" /></a>
 <a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://cdn.sanity.io/images/hvk0tap5/production/0ea63c1b6854bd803489557afb4ea54b85239418-128x128.png?fit=max&auto=format" width="36" height="36" alt="Render" /></a>
 
 </p>
@@ -91,12 +92,11 @@ I'm eager to build new blockchain and web applications requiring solid knowledge
 
 <p align="left">
       <a href="https://discord.com/users/robi1108" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-      <a href="https://www.github.com/hermes8527" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>></a>
+      <a href="https://www.github.com/hermes8527" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 </p>
 
 ### Badges
 
-<b>My GitHub Stats</b>
 <a href="http://www.github.com/hermes8527"><img src="https://github-readme-stats.vercel.app/api?username=hermes8527&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="hermes8527's GitHub stats" /></a>
 <a href="http://www.github.com/hermes8527"><img
 src="https://github-readme-streak-stats.herokuapp.com/?user=hermes8527&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
